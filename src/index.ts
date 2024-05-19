@@ -1,5 +1,1 @@
-import { Logger } from "./logger";
-
-const logger = new Logger();
-
-export default { logger };
+export { default as logger } from "./logger";

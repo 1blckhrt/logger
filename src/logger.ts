@@ -5,7 +5,7 @@ import * as fs from "fs";
 /**
  * Represents a Logger class for printing colored messages to the console and saving them to a log file.
  */
-export class Logger {
+class Logger {
   /**
    * Defines colors for the console output.
    */
@@ -156,3 +156,6 @@ export class Logger {
     this.printColoredMessage("cyan", `[INFO] ${message}`);
   }
 }
+
+const logger = new Logger();
+export default logger;
