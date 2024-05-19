@@ -46,4 +46,4 @@ logger.info("This is an info message");
 logger.success("This is a success message");
 ```
 
-# Thank you for checking out my program!
+# Thank you for checking out my program, I hope it is useful.
