@@ -7,7 +7,7 @@
 <p>You can install my logger program using npm:</p>
 
 ```sh
-npm install @1blckhrt_/logger
+npm install @1blckhrt_/tslogger
 ```
 
 <h2>Basic usage</h2>
@@ -15,8 +15,8 @@ npm install @1blckhrt_/logger
 <h3>Importing</h3>
 
 ```js
-const { logger } = require("@1blckhrt_/logger");
-import { logger } from "@1blckhrt_/logger";
+const { logger } = require("@1blckhrt_/tslogger");
+import { logger } from "@1blckhrt_/tslogger";
 ```
 
 <h3>Logging to files</h3>
