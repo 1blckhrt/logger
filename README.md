@@ -1,6 +1,6 @@
 <h1>📃 Logger - Developed by 1blckhrt</h1>
 
-<p>A simple logger utility class that prints colored messages to the console and timestamps, with the option of saving a message to a file.
+<p>A simple TypeScript logger utility class that prints colored messages to the console and timestamps, with the option of saving a message to a file.
 
 <h2>Installation</h2>
 
