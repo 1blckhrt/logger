@@ -45,3 +45,5 @@ logger.warning("This is a warning message");
 logger.info("This is an info message");
 logger.success("This is a success message");
 ```
+
+# Thank you for checking out my program!
